@@ -1,8 +1,8 @@
 # Finding equation roots using MATLAB
 
-## Methods are:-
+## Methods are :
 
-### bierge-vieta
+### Bierge-vieta
 
 ### Gauss-jordan
 
