@@ -1,9 +1,9 @@
 ## Finding equation roots using MATLAB
 
-**Methods are :**
+### Methods are :
 
-### 1- Bierge-vieta
+**1- Bierge-vieta**
 
-### 2- Gauss-jordan
+**2- Gauss-jordan**
 
-### 3- Secant
+**3- Secant**
