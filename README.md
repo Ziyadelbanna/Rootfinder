@@ -2,8 +2,8 @@
 
 ## Methods are :
 
-### Bierge-vieta
+### 1-Bierge-vieta
 
-### Gauss-jordan
+### 2-Gauss-jordan
 
-### Secant
+### 3-Secant
