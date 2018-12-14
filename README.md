@@ -2,8 +2,8 @@
 
 ### Methods include :
 
-**1-Bierge-vieta**
+**-Bierge-vieta**
 
-**2-Gauss-jordan**
+**-Gauss-jordan**
 
-**3-Secant**
+**-Secant**
