@@ -1,6 +1,6 @@
 ## Finding equation roots using MATLAB
 
-### Methods include :
+### Methods include:
 
 * **Bierge-vieta**
 
