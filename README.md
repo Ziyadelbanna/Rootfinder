@@ -1,4 +1,4 @@
-## > _Methods for finding roots of equations include:
+> _Methods for finding roots of equations include:
 
 * _Bierge-vieta_
 
