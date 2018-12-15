@@ -2,4 +2,3 @@
 >* _Bierge-vieta_
 >* _Gauss-jordan_
 >* _Secant_
--programming
