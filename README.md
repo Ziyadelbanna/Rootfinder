@@ -1,4 +1,4 @@
-> _The goal of the application is to find accurate roots of any equation using Numerical methods, this methods include_
+> _The goal of the application is to find accurate roots of any equation using numerical methods, these methods include_
 >* _Bierge-vieta_
 >* _Gauss-jordan_
 >* _Secant_
