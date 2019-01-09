@@ -4,4 +4,4 @@
 >* _Secant_
 >* _False-position_
 >* _Fixed-point_
->* _Bisection method _
+>* _Bisection method_
